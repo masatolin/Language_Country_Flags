@@ -1,0 +1,18 @@
+c:\users\masato\documents\visual studio 2015\Projects\Final Application\Final Application\bin\Debug\Final Application.exe.config
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\bin\Debug\Final Application.exe
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\bin\Debug\Final Application.pdb
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final Application.csprojResolveAssemblyReference.cache
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final_Application.Properties.Resources.resources
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final Application.csproj.GenerateResource.Cache
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final Application.exe
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final Application.pdb
+C:\Users\Masato\Documents\Visual Studio 2015\Projects\Final Application\Final Application\obj\Debug\Final_Application.countryByLanguage.resources
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\bin\Debug\Final Application.exe.config
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\bin\Debug\Final Application.exe
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\bin\Debug\Final Application.pdb
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final Application.csprojAssemblyReference.cache
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final_Application.countryByLanguage.resources
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final_Application.Properties.Resources.resources
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final Application.csproj.GenerateResource.cache
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final Application.exe
+C:\Users\reals\Documents\All Old Comp Stuff\Old Comp Doc Stuff\Old Comp Doc Stuff\Comp Sci Stuff\Final Application (2)\Final Application\Final Application\obj\Debug\Final Application.pdb
